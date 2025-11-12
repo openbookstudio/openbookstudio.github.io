@@ -1,7 +1,7 @@
 ---
-title: Kochi
+title: Photo restoration
 layout: default
-description: Kochi was hot and humid.
+description: Photo restoration with SOTA ai.
 type: travel
-order: 4
+order: 2
 ---
