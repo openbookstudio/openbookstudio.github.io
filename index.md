@@ -8,9 +8,9 @@ order: 1
 <div class="section header">
 	<div class="container">
 		<img src="{{ "/assets/img/logo.svg" | relative_url }}">
-		<h3 class="section-heading">photography</h3>
+		<h3 class="section-heading">Publishing & photography</h3>
 		<p class="section-description">
-			Discovering the world with my vision.
+			A journey to pro heartwarming experience.
 		</p>
 		<div id="navbar-wrapper">
 			<div id="navbar">
