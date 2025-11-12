@@ -3,7 +3,7 @@ title: travelss
 layout: rest
 description: I try to roam around sometimes.
 type: parent
-order: 3
+order: 2
 ---
 
 <div class="section main">
