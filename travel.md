@@ -1,5 +1,5 @@
 ---
-title: travel
+title: travelss
 layout: rest
 description: I try to roam around sometimes.
 type: parent
