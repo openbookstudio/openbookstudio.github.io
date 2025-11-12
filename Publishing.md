@@ -1,7 +1,7 @@
 ---
-title: travelss
+title: publishing
 layout: rest
-description: I try to roam around sometimes.
+description: A journey to follow the path of the light
 type: parent
 order: 2
 ---
