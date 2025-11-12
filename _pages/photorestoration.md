@@ -2,6 +2,6 @@
 title: Photo restoration
 layout: default
 description: Photo restoration with SOTA ai.
-type: projects
+type: travel
 order: 7
 ---
