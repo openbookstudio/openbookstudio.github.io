@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2023 Saumil Shah
+Copyright (c) 2025 openbookstudio(pleasing-aroma)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This site's template is forked from el_photo. Thanks to Saumil Shah.
+The images and photos on this site may not be used without my(oprenbookstudio, openbookstudiokorea@gmail.com) permission.
