@@ -3,7 +3,7 @@ title: portraits
 layout: rest
 description: I try to make people pose sometimes.
 type: parent
-order: 3
+order: 2
 ---
 
 <div class="section main">
