@@ -1,7 +1,7 @@
 ---
 title: portraits
 layout: rest
-description: I try to make people pose sometimes.
+description: A journey to capture the heartfelt emotions of children & loving people.
 type: parent
 order: 3
 ---
