@@ -1,7 +1,7 @@
 ---
 title: projects
 layout: rest
-description: I try to work sometimes.
+description: A Journey to Find Resonance with AI
 type: parent
 order: 4
 ---
