@@ -1,9 +1,9 @@
-title: El_photography
-url: https://samd97.github.io/el_photo/
+title: openbookstudio
+url: https://openbookstudio.github.io/
 baseurl: 
 
-author: Disha Patel
-description: Discovering the world with my vision.
+author: Eliana Yeom, pleasing_aroma
+description: Following the path of the light.
 
 include: ['_pages']
 
