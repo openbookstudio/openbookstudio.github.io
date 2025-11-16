@@ -14,13 +14,14 @@ collections:
     output: true
   kochi:
     output: true
-  venice:
+  london:
     output: true
-    rimi:
+  rimi:
     output: true
   cn_fishnet:
     output: true
-  
+  photorestoration:
+    output: true
 markdown: kramdown
 kramdown:
   input: GFM
