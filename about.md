@@ -19,12 +19,12 @@ We write heartwarming stories, primarily for children,
 and also specialize in on-location photography, bringing our studio to you.<br>
 Additionally, we offer AI-powered memory video creation and professional image restoration services.<br><br>
 
----------------------  
+_____________________  
 **contact**<br>
 openbookstudiokorea.com<br>
 openbookstudiokorea@gmail.com<br>
 @kakao.com<br>
----------------------<br>
+_____________________<br>
 		</p>
 	</div>
 </div>
