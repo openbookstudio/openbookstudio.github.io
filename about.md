@@ -20,11 +20,11 @@ and also specialize in on-location photography, bringing our studio to you.<br>
 Additionally, we offer AI-powered memory video creation and professional image restoration services.<br><br>
 
 ---  
-contact
-openbookstudiokorea.com
-openbookstudiokorea@gmail.com
-@kakao.com
----  
+contact<br>
+openbookstudiokorea.com<br>
+openbookstudiokorea@gmail.com<br>
+@kakao.com<br>
+---  <br>
 		</p>
 	</div>
 </div>
