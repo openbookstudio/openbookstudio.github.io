@@ -1,5 +1,5 @@
 ---
-title: 아동문학
+title: children's literature
 layout: default
 description: heartwarming stories
 type: publishing
