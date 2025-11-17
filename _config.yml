@@ -12,13 +12,13 @@ collections_dir: series
 collections:
   home:
     output: true
-  kochi:
+  childrenliterature:
     output: true
   london:
     output: true
   rimi:
     output: true
-  cn_fishnet:
+  ai_influencer:
     output: true
   photorestoration:
     output: true
