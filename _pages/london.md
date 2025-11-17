@@ -2,6 +2,6 @@
 title: London
 layout: default
 description: awake submarines
-type: travel
+type: publishing
 order: 4
 ---
