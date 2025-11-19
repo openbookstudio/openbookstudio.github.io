@@ -22,6 +22,8 @@ collections:
     output: true
   photorestoration:
     output: true
+  ai_memorymovie:
+    output: true
 markdown: kramdown
 kramdown:
   input: GFM
