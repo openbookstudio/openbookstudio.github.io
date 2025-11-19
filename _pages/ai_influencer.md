@@ -1,7 +1,7 @@
 ---
 title: AI Influencer
 layout: default
-description: success for your business
+description: The future of influence.
 type: project
 order: 4
 ---
