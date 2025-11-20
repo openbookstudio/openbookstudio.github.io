@@ -1,0 +1,12 @@
+# 이미지 파일들을 바이너리로 취급하도록 명시
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.gif   binary
+*.ico   binary
+*.svg   binary # SVG는 텍스트 기반이지만, 일반적으로 편집 없이 사용하므로 binary로 지정해도 좋습니다.
+
+# 기타 바이너리 파일들
+*.pdf   binary
+*.zip   binary
+*.exe   binary
