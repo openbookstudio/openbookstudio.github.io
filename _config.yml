@@ -12,18 +12,31 @@ collections_dir: series
 collections:
   home:
     output: true
+  
   childrenliterature:
     output: true
+
+  kkomi:
+    output: true
+
+  shion:
+    output: true
+
   london:
     output: true
+
   snap:
     output: true
+  
   ai_influencer:
     output: true
+  
   photorestoration:
     output: true
+  
   ai_memorymovie:
     output: true
+
 markdown: kramdown
 kramdown:
   input: GFM
