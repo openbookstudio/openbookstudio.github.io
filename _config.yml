@@ -22,9 +22,6 @@ collections:
   shion:
     output: true
 
-  london:
-    output: true
-
   snap:
     output: true
   
