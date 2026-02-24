@@ -16,12 +16,6 @@ collections:
   childrenliterature:
     output: true
 
-  kkomi:
-    output: true
-
-  shion:
-    output: true
-
   snap:
     output: true
   
